@@ -1,0 +1,10 @@
+hugo --theme=WebStack-Hugo  --buildDrafts
+hugo server
+cd public
+git init                          //初始化本地仓库
+git add .		//将public文件夹下的所有文件放入缓存流中等待提交，注意此处空一格有个点
+git commit -m "xx"                //把缓存内容放进发送头，仍为待发送状态，“xx”为对本次上传作的说明
+git remote add origin (仓库地址)   //绑定了.git配置文件夹对应的远端服务器
+git push -u origin main
+
+https://www.runoob.com/font-awesome/fontawesome-icons-webapp.html // 图标

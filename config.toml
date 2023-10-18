@@ -1,6 +1,6 @@
-baseURL               = "https://nav.mocha.city/"
+baseURL               = "https://genericfunc.netlify.app/"
 languageCode          = "zh-CN"
-title                 = "Mocha's Navigation"
+title                 = "泛函"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -9,22 +9,22 @@ publishDir            = "public"					# 站点静态文件保存目录
 
 
 [params]
-    author        = "Mocha"
-    description   = "Mocha's Navigation"
-    upload        = "https://nav.mocha.city/"  # 左侧导航栏的"网站提交"
-    about         = "https://nav.mocha.city/"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://nav.mocha.city/"  
+    author        = "GenericFunc"
+    description   = "发现与链接"
+    upload        = "https://genericfunc.netlify.app/"  # 左侧导航栏的"网站提交"
+    about         = "https://genericfunc.netlify.app/"	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/Wjiajie/life.journey"  
     enablePreLoad = true					# 网站完全打开前预加载动画
-    textPreLoad   = "Navigation Praying..."				# 预加载的动画文字, 只有当enablePreLoad=true时生效
-    expandSidebar = false					# 默认展开左侧边导航栏
+    textPreLoad   = "GenericFunc Playing..."				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    expandSidebar = true					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
     nightMode     = false					# 默认站点为深色(夜间)模式
     yiyan         = false                         		# 默认启用一言服务
 
 [params.seo]    
-    baiduhmid       = '8dd4de05dca4661982497efdf20f335d'	# 百度统计 hm.src 的 ID
-    baiduSiteVer    = 'codeva-iQ5DSlWWLE'			# 百度HTML标签验证(baidu-site-verification)
+    baiduhmid       = ''	# 百度统计 hm.src 的 ID
+    baiduSiteVer    = ''			# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
     GoogleAdsClient = ''					# Google AdSense 
@@ -36,8 +36,8 @@ publishDir            = "public"					# 站点静态文件保存目录
     favicon           = "assets/images/favicon.png"
     searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
-    logoExpandLight   = "assets/images/bt8-expand-light.png"
-    logoExpandDark    = "assets/images/bt8-expand-dark.png"
+    logoExpandLight   = "assets/images/favicon.png"
+    logoExpandDark    = "assets/images/bt.png"
     logoCollapseLight = "assets/images/bt.png"
     logoCollapseDark  = "assets/images/bt.png"
     
@@ -45,4 +45,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = 'Copyright © 2019-2023 [Mocha](https://nav.mocha.city/)   Theme [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo/)<br/>'
+    copyright = 'Copyright © 2023-2023 [jiajiewu](https://www.jiajiewu.top/)   Theme [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo/)<br/>'
