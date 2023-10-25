@@ -16,6 +16,11 @@
     - term: 旅行与探索
     - term: 金融与理财
     - term: 数字工具与应用
+      links:
+      - title: 内容生产工具
+        logo: https://s2.loli.net/2023/10/25/hEoKHLkQ4xw6dXs.png
+        url: https://jiajiewu.notion.site/UGC-e44e98d831444977a1aa5b73c9506b96?pvs=4
+        description: UGC（用户生产内容）素材工具
 
 - taxonomy: 学习与个人发展
   icon: fa fa-book
