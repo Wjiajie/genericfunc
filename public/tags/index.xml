@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mocha&#39;s Navigation</title>
-    <link>https://nav.mocha.city/tags/</link>
-    <description>Recent content in Tags on Mocha&#39;s Navigation</description>
+    <title>Tags on 泛函</title>
+    <link>https://genericfunc.netlify.app/tags/</link>
+    <description>Recent content in Tags on 泛函</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://nav.mocha.city/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://genericfunc.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

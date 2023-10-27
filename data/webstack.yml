@@ -19,7 +19,7 @@
       links:
       - title: 内容生产工具
         logo: https://s2.loli.net/2023/10/25/hEoKHLkQ4xw6dXs.png
-        url: https://jiajiewu.notion.site/UGC-e44e98d831444977a1aa5b73c9506b96?pvs=4
+        url: https://m09u7psvju.feishu.cn/docx/JI8DdJ05xo7TAPxxlblcrvWgnNg?from=from_copylink
         description: UGC（用户生产内容）素材工具
 
 - taxonomy: 学习与个人发展
@@ -29,11 +29,11 @@
       links:
       - title: 编码与架构
         logo: https://s2.loli.net/2023/10/18/V3gz5NMjtoUwf24.png
-        url: https://jiajiewu.notion.site/31cd0cdba1a54df3b944508a3b40af42?pvs=4
+        url: https://m09u7psvju.feishu.cn/docx/FQzHdLEKDoC2KSxqeMLcXBaNncb?from=from_copylink
         description: 软件开发过程中，编码将设计转化为实际代码，而架构则是指设计和组织代码结构以满足软件需求的方法和原则。
       - title: 产品与设计
         logo: https://s2.loli.net/2023/10/18/9Tb7MVwHFZml5kL.png
-        url: https://jiajiewu.notion.site/5a20742ba09446c2ac39fddc96165b7b?pvs=4
+        url: https://m09u7psvju.feishu.cn/docx/EasvdawM5o0XAyx2LcYcrS4Infb?from=from_copylink
         description: 产品与设计是一个关于创造和实现有价值、用户体验优秀的产品的领域，涉及到产品策划、用户研究、界面设计等方面的知识与技能。
     - term: 文学与艺术
     - term: 语言学习
@@ -57,14 +57,14 @@
       links:
       - title: 助眠工具
         logo: https://s2.loli.net/2023/10/18/naWbZu7YNmCzyKA.png
-        url: https://jiajiewu.notion.site/0ba5ba2b17ba4d859a6af06f1142e705?pvs=4
+        url: https://m09u7psvju.feishu.cn/docx/DKowdJL1soqGylxxv26cckArnvf?from=from_copylink
         description: 助眠在线工具，资源收集。
     - term: 心灵成长与自我探索
     - term: 宗教与信仰
     - term: 瑜伽与身心调和
 
 - taxonomy: 美食与烹饪
-  icon: fa fa-globe
+  icon: fas fa-pizza-slice
   list:
     - term: 美食烹饪技巧
     - term: 健康饮食与食谱
