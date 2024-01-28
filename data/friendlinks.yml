@@ -1,15 +1,8 @@
-- title: 个人博客
-  url: https://www.jiajiewu.top/
-  description: 个人博客
+- title: 联系我
+  url: https://m09u7psvju.feishu.cn/docx/X9ekdtEsMo2VtrxsUtlcLGoMn3e
+  description: 我的公开链接
 
-- title: 飞书社群
-  url: https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=4f5pfeb3-46f6-4c97-9572-c4698314d3ac
-  description: 飞书社群
+- title: 留言板
+  url: https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=3abt447b-7f07-4270-a516-149ae667ad42
+  description: 一个用于留言的飞书社群
 
-- title: Google WorkSpace
-  url: https://chat.google.com/room/AAAA6JWtXbI?cls=7
-  description: Google WorkSpace
-
-- title: 个人微信号
-  url: https://sm.ms/image/8nvJgfqrFkDLObK
-  description: 加个人微信号进微信群

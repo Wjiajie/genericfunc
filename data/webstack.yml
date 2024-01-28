@@ -1,26 +1,40 @@
 ---
-- taxonomy: 健康与生活方式
-  icon: fa fa-blind
-  list:
-    - term: 健康与养生
-    - term: 运动与健身
-    - term: 饮食与营养
-    - term: 心理健康与幸福
-    - term: 家庭与亲子关系
 
 - taxonomy: 实用工具与资源
   icon: fa fa-plane
   list:
-    - term: 生活技巧与窍门
-    - term: 家居与装饰
-    - term: 旅行与探索
-    - term: 金融与理财
     - term: 数字工具与应用
       links:
+      - title: 导航网站收集
+        logo: https://s2.loli.net/2024/01/28/TJjcgSzlOBNQd54.png
+        url: https://m09u7psvju.feishu.cn/docx/I8FVdZy2VoknORxnrYwcEXz9nVe?from=from_copylink
+        description: 信息来源，导航网站收集
       - title: 内容生产工具
         logo: https://s2.loli.net/2023/10/25/hEoKHLkQ4xw6dXs.png
         url: https://m09u7psvju.feishu.cn/docx/JI8DdJ05xo7TAPxxlblcrvWgnNg?from=from_copylink
         description: UGC（用户生产内容）素材工具
+      - title: 内容消费工具
+        logo: https://s2.loli.net/2024/01/28/DbodpUYGJcN8tRZ.png
+        url: https://m09u7psvju.feishu.cn/docx/Wh8bddWBpo8IFXxHTjqcmjmMnqe?from=from_copylink
+        description: 信息组合后再消费
+    - term: 书影音资源收集
+      links:
+      - title: 电影资源
+        logo: https://s2.loli.net/2024/01/28/nIBHwSGmRTU6YWz.png
+        url: https://m09u7psvju.feishu.cn/docx/DSoOdq0sAoF9U6x2mRpcUry2nGe?from=from_copylink
+        description: 信息来源，导航网站收集
+      - title: 摄影资源
+        logo: https://s2.loli.net/2024/01/28/JfpARnjSC8sYWGK.png
+        url: https://m09u7psvju.feishu.cn/docx/QGtCdaEpqoYFyNxxT4HcrJZznje?from=from_copylink
+        description: 信息来源，导航网站收集
+      - title: 音乐资源
+        logo: https://s2.loli.net/2024/01/28/cTPwe5Jsqo2MkQf.png
+        url: https://m09u7psvju.feishu.cn/docx/YhhhdtdF1oNlEPx2uMocApzQnDe?from=from_copylink
+        description: 信息来源，导航网站收集
+      - title: 图书资源
+        logo: https://s2.loli.net/2024/01/28/uZ185gi9evhjQrD.png
+        url: https://m09u7psvju.feishu.cn/docx/KtbWdqz5So41pkxJLlicJ3xPnsg?from=from_copylink
+        description: 信息来源，导航网站收集
 
 - taxonomy: 学习与个人发展
   icon: fa fa-book
@@ -35,39 +49,13 @@
         logo: https://s2.loli.net/2023/10/18/9Tb7MVwHFZml5kL.png
         url: https://m09u7psvju.feishu.cn/docx/EasvdawM5o0XAyx2LcYcrS4Infb?from=from_copylink
         description: 产品与设计是一个关于创造和实现有价值、用户体验优秀的产品的领域，涉及到产品策划、用户研究、界面设计等方面的知识与技能。
-    - term: 文学与艺术
-    - term: 语言学习
-    - term: 职业发展与技能培训
-    - term: 创意与创新
-
-- taxonomy: 社交与人际关系
-  icon: fa fa-at
-  list:
-    - term: 情感与人际交往
-    - term: 社交技巧与沟通
-    - term: 社区与志愿者
-    - term: 团队合作与领导力
-    - term: 社交娱乐与活动
 
 - taxonomy: 心灵与灵性
   icon: fa fa-music
   list:
-    - term: 冥想与冥思
     - term: 冥想音乐与放松技巧
       links:
       - title: 助眠工具
         logo: https://s2.loli.net/2023/10/18/naWbZu7YNmCzyKA.png
         url: https://m09u7psvju.feishu.cn/docx/DKowdJL1soqGylxxv26cckArnvf?from=from_copylink
         description: 助眠在线工具，资源收集。
-    - term: 心灵成长与自我探索
-    - term: 宗教与信仰
-    - term: 瑜伽与身心调和
-
-- taxonomy: 美食与烹饪
-  icon: fas fa-pizza-slice
-  list:
-    - term: 美食烹饪技巧
-    - term: 健康饮食与食谱
-    - term: 地方特色与美食文化
-    - term: 茶酒与饮品
-    - term: 甜点与烘焙

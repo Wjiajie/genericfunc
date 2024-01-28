@@ -45,4 +45,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = 'Copyright © 2023-2023 [jiajiewu](https://www.jiajiewu.top/)   Theme [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo/)<br/>'
+    copyright = 'Copyright © 2023-2024 [jiajiewu](https://www.jiajiewu.top/)   Theme [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo/)<br/>'
